@@ -105,3 +105,29 @@ footer {
   padding:30px;
   justify-content: center;
 }
+.registrtionform{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px;
+  background-color: rgb(220, 228, 202);
+  padding: 20px;
+  font-size: 30px;
+}
+button[type="submit"]{
+  background-color: rgb(30, 233, 233);
+  color: #131212;
+  border: 1px solid rgb(12, 12, 12);
+  font-size: 30px;
+  border-radius: 20px;
+  padding: 5px;
+}
+input[type="text"]{
+  padding:5px;
+  font-size: 30px;
+}
+select{
+  font-size: 30px;
+ 
+  padding: 5px;
+}
+
+
