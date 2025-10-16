@@ -35,4 +35,16 @@ function openArticle(id) {
   content.innerHTML = `<h2>${article.title}</h2>${article.content}`;
   showPage('articlePage');
 }
+
 //dint do anything here
+//this is mine
+ function alert(){
+    if(document.getElementById('name')=="name" && document.getElementById('email')=="example@gmail.com"&&document.getElementById('event')=="workshop"){
+      alert("submission successful !");
+    }
+    else
+    {
+    alert("submission failed !")
+    }
+
+}
